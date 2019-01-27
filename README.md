@@ -7,6 +7,6 @@ To run
 
 Uses GraphQL and requests are in the form: 
 
-  query {
-    word(queryString: "t??")
-  }
+>query {
+> word(queryString: "t??")
+>}
