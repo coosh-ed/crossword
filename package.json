@@ -1,0 +1,27 @@
+{
+  "name": "crossword",
+  "version": "0.0.0",
+  "description": "API that returns possible answers to an incomplete crossword entry",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon tests/*",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coosh-ed/crossword.git"
+  },
+  "author": "Colm O'Shaughnessy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coosh-ed/crossword/issues"
+  },
+  "homepage": "https://github.com/coosh-ed/crossword#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  }
+}
