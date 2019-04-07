@@ -13,4 +13,4 @@ Uses GraphQL and requests are in the form:
 >
 >}
 
-Currently, only 3 letter words are supported. The code can easily be expanded to any number of letters and will be done in the future.
+Currently, only 3 letter words are supported. The code can easily be expanded to support words of any (reasonable) length and will be done in the future.
