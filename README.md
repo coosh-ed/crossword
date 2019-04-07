@@ -12,3 +12,5 @@ Uses GraphQL and requests are in the form:
 > word(queryString: "t??")
 >
 >}
+
+Currently, only 3 letter words are supported. The code can easily be expanded to any number of letters and will be done in the future.
